@@ -146,7 +146,7 @@
    :phone-request-text                    "Solicitud de número de teléfono"
    :confirmation-code-command-description "Enviar código de confirmación"
    :confirmation-code-request-text        "Solicitud de código de confirmación"
-   :send-command-description              "Enviar ubicación"
+   :send-command-description              "Enviar comando"
    :request-command-description           "Enviar solicitud"
    :keypair-password-command-description  ""
    :help-command-description              "Ayuda"
